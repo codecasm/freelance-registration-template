@@ -1,0 +1,112 @@
+1.	Why to use PHP?
+2.	What is PHP?
+3.	Is PHP powerful than ASP or JSP?
+4.	What is difference between echo, print and printf in PHP?
+5.	Which method is efficient to use GET or POST?
+6.	How to set date format in PHP and save in Database?
+7.	How to match date type while checking for record?
+8.	In what type should I save date, text or date? How?
+9.	How to send HTML email through PHP?
+10.	How to configure php.ini for sending email?
+11.	How to send email from localhost?
+12.	Can PHP create database or table dynamically?
+13.	Can we fire DDL, DML, DQL, DCL command through PHP?
+14.	How good it is to use AngularJS with PHP?
+15.	Can we build Android App using PHP?
+16.	Which database is good to use with PHP?
+17.	Whether to use MySQL or MySQLi or PDO?
+18.	How to configure IIS to host PHP pages?
+19.	How to create APIs in PHP?
+20.	How to encode JSON in PHP?
+21.	How to decode JSON in PHP?
+22.	Can we change PHP version installed on the host server? How?
+23.	How to export report in excel format through PHP?
+24.	How to create PDF in PHP?
+25.	How to compress files in PHP?
+26.	How to clone site in PHP?
+27.	How can we migrate whole site from one to another?
+28.	How to host or publish PHP files?
+29.	How to select multiple dropdown and get their value in PHP?
+30.	Can we refresh part/block of page using PHP?
+31.	How to create a CMS in PHP?
+32.	How to create a blog using PHP?
+33.	How to connect MS SQL Server in PHP?
+34.	How to get data from XML in PHP?
+35.	How to create newsletter using PHP?
+36.	How to create pagination in PHP?
+37.	How sessions work in PHP?
+38.	How to destroy sessions on tab close in PHP?
+39.	How to set sessions expiry time in PHP?
+40.	How to connect database using OOPs in PHP?
+41.	How to create HTML page and display data in PHP dynamically?
+42.	How to use AJAX with PHP?
+43.	How to upload image into database?
+44.	How to store image into database using blob?
+45.	Check extension while upload file in PHP.
+46.	Check size while uploading file in PHP.
+47.	Compress file while uploading  in PHP.
+48.	Create folders on server using PHP.
+49.	Create REST API using PHP MySQL for mobile applications.
+50.	How to send sms using PHP?
+51.	How to integrate Payment Gateway in PHP?
+52.	How to create bot in PHP?
+53.	Can PHP be used for AI(Artificial Intelligence)?
+54.	How to use python with PHP?
+55.	How to create OTP(One Time Password) in PHP?
+56.	How to use handle multiple session login?
+57.	How to validate form in PHP?
+58.	How to check whether the email id exist or not using PHP?
+59.	How to login or register through Facebook or Google in PHP?
+60.	How to use Facebook or Google comment in PHP?
+61.	How to encrypt data in PHP?
+62.	Which all types of data encryption PHP supports?
+63.	How to decrypt encrypted data in PHP?
+64.	How to create phising application using PHP?
+65.	How to create FTP connection in PHP?
+66.	Can we create mailbox like GMAIL using PHP?
+67.	How to upload CSV file in PHP?
+68.	How to create CSV file in PHP?
+69.	How to create HTML editor in PHP?
+70.	How to create Popup registration in PHP?
+71.	How to display Twitter comment in PHP page?
+72.	How to display Facebook Post in PHP page?
+73.	How to parse XML in PHP?
+74.	How to integrate Google Map in PHP?
+75.	How to change desktop image using PHP?
+76.	How to manipulate HTML DOM using PHP?
+77.	How to draw image using PHP?
+78.	How to create dynamic HTML element in PHP?
+79.	How to create visual reports using PHP(Graph, Chart)?
+80.	How to generate Barcode in PHP?
+81.	How to generate QR Code in PHP?
+82.	How to generate random string using PHP?
+83.	How to create a key logger in PHP?
+84.	How to create watermark using PHP?
+85.	How to integrate YouTube video in PHP?
+86.	How to validate payment cards in PHP?
+87.	How to check the card type in PHP while getting the payment?
+88.	How to connect AADHAR database?
+89.	How to validate user information with AADHAR using PHP?
+90.	How to create dynamic state and city list by selecting country in PHP?
+91.	How to display database schema in PHP?
+92.	How to remove white spaces in string in PHP?
+93.	How to create captcha in PHP?
+94.	How to integrate reCaptcha in PHP?
+95.	How to inject data on page using PHP?
+96.	How to check current IP using PHP?
+97.	How to get browser information using PHP?
+98.	How to get system information using PHP?
+99.	How to create archive(.zip or .rar) in PHP?
+100.	How to create a notification in PHP?
+101.	Can we create desktop application using PHP?
+102.	How to take backup of database on fix time in PHP?
+103.	How to integrate RSS feed in PHP?
+104.	How to redirect website depending on device type(example.com for desktop & m.example.com for mobile) using PHP?
+105.	How to redirect website country wise using PHP?
+106.	How to retrieve selected value in dropdown using PHP MySQL?
+107.	How to retrieve selected value in checkbox using PHP MySQL?
+108.	How to sort record in PHP MySQL?
+109.	How to create media streaming app using PHP MySQL?
+110.	How to check whether user is online or not in PHP?
+111.	How to read emails on mailboxes(Gmail/Outlook) in PHP?
+112.	How to create a autochat bot using PHP?
